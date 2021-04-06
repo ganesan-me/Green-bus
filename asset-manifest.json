@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Green-bu/static/css/main.59eba233.chunk.css",
-    "main.js": "/Green-bu/static/js/main.09eea08b.chunk.js",
-    "main.js.map": "/Green-bu/static/js/main.09eea08b.chunk.js.map",
-    "runtime-main.js": "/Green-bu/static/js/runtime-main.cb28d34c.js",
-    "runtime-main.js.map": "/Green-bu/static/js/runtime-main.cb28d34c.js.map",
-    "static/js/2.c5faeb44.chunk.js": "/Green-bu/static/js/2.c5faeb44.chunk.js",
-    "static/js/2.c5faeb44.chunk.js.map": "/Green-bu/static/js/2.c5faeb44.chunk.js.map",
-    "static/js/3.825a00d3.chunk.js": "/Green-bu/static/js/3.825a00d3.chunk.js",
-    "static/js/3.825a00d3.chunk.js.map": "/Green-bu/static/js/3.825a00d3.chunk.js.map",
-    "index.html": "/Green-bu/index.html",
-    "static/css/main.59eba233.chunk.css.map": "/Green-bu/static/css/main.59eba233.chunk.css.map",
-    "static/js/2.c5faeb44.chunk.js.LICENSE.txt": "/Green-bu/static/js/2.c5faeb44.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Green-bu/static/media/bus.fe801e01.jpg"
+    "main.css": "/Green-bus/static/css/main.3ff34090.chunk.css",
+    "main.js": "/Green-bus/static/js/main.09eea08b.chunk.js",
+    "main.js.map": "/Green-bus/static/js/main.09eea08b.chunk.js.map",
+    "runtime-main.js": "/Green-bus/static/js/runtime-main.cb0e16d1.js",
+    "runtime-main.js.map": "/Green-bus/static/js/runtime-main.cb0e16d1.js.map",
+    "static/js/2.c5faeb44.chunk.js": "/Green-bus/static/js/2.c5faeb44.chunk.js",
+    "static/js/2.c5faeb44.chunk.js.map": "/Green-bus/static/js/2.c5faeb44.chunk.js.map",
+    "static/js/3.825a00d3.chunk.js": "/Green-bus/static/js/3.825a00d3.chunk.js",
+    "static/js/3.825a00d3.chunk.js.map": "/Green-bus/static/js/3.825a00d3.chunk.js.map",
+    "index.html": "/Green-bus/index.html",
+    "static/css/main.3ff34090.chunk.css.map": "/Green-bus/static/css/main.3ff34090.chunk.css.map",
+    "static/js/2.c5faeb44.chunk.js.LICENSE.txt": "/Green-bus/static/js/2.c5faeb44.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Green-bus/static/media/bus.fe801e01.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb28d34c.js",
+    "static/js/runtime-main.cb0e16d1.js",
     "static/js/2.c5faeb44.chunk.js",
-    "static/css/main.59eba233.chunk.css",
+    "static/css/main.3ff34090.chunk.css",
     "static/js/main.09eea08b.chunk.js"
   ]
 }
